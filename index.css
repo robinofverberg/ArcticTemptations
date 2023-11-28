@@ -25,11 +25,11 @@ ul {
     align-items: center;
     margin: 0 auto;
     z-index: 1000;
-    width: 20vw;
+    width: 25vw;
 }
 
 #logo img {
-    width: 200px;
+    width: 250px;
     height: auto;
 }
 
